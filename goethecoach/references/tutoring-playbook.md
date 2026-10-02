@@ -22,6 +22,9 @@ Use this structure in the learner's language, and keep it scannable:
                  each with 1 quoted example → correction. The full error list only
                  if asked, or ≤ 8 errors.
 6. Nächster Schritt  One question offering 2–3 options (see Phase 2).
+                 Optionally one further-reading article for the top problem
+                 (map in article-answers.md), then the product line, if any
+                 (product-bridge.md; after the first exam: the invite).
 ```
 
 **Dose by level:** A1–A2 → max 3 patterns, very simple explanations, lots of encouragement. B1–B2 → up to 5 patterns. C1–C2 → full precision, including style and register nuance.

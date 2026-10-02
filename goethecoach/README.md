@@ -23,6 +23,9 @@ unzip goethecoach-skill.zip -d ~/.claude/skills/
 - "Check my B2 forum post: …"
 - "Simulate Sprechen Teil 1 at A2 with me."
 - "My exam is on 12 December, B1. Make me a plan."
+- "How is Goethe B2 writing scored?" or "I failed B1 Schreiben. What now?"
+
+Questions about the exam are answered from the bundled [GoetheCoach article library](references/articles/index.md) (33 articles), with links to the full articles in your language for further reading.
 
 Write in your own language, and Claude explains in that language. The exam material stays in German.
 
